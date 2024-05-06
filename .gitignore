@@ -1,3 +1,4 @@
 dist
 *.spec
 build
+.idea
